@@ -1,0 +1,13 @@
+<style type="text/css">
+/*<![CDATA[*/
+/* Hide the read more button at blog posts */
+
+#cc-m-1.j-module > p {display: none !important;}    /*Ausblenden des "mehr lesen" links unterhalb den Blogbeiträgen*/
+#cc-m-1.j-module > p {color: #ffffff !important;} 
+.footer-btm {background-color: #ffffff !important;} 
+
+/* ---------  */
+
+/*]]>*/
+</style>
+
