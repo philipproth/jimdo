@@ -1,0 +1,13 @@
+<style type="text/css">
+/*<![CDATA[*/
+/* Änderungsschema für Jimdo Malaga - Abstände zwischen Navigation und Contentbereich verringern oder erweitern/*/
+.jtpl-header {padding-top: 10px; padding-bottom: 0px;} /* erhöht den Abstand der Navigationsleiste zum oberen Fensterrand und zum "äusseren" Contentbereich (= weisser Bereich auf der Beispielwebsite)*/
+#cc-inner {padding-top: 0px;} /* erhöht den Abstand der Navigationsleiste zum "inneren" Contentbereich an (= hellgrauer Bereich auf der Beispielwebsite)*/
+.jtpl-content {padding-top: 0px;} /* erhöht den Abstand des "inneren" Contentbereich zum "äusseren" Contentbereich an (= dunkelgrauer Bereich auf der Beispielwebsite)*/
+.jtpl-section-main.cc-content-parent {margin: 120px auto 80px;} /* verringert oder erhöht den Abstand des "inneren" Contentbereich zur Navigationsleiste (= dunkelgrauer Bereich auf der Beispielwebsite)*/
+@media only screen and (max-device-width : 667px) {
+      /* für Mobile-Ansicht: verringert oder erhöht den Abstand des "inneren" Contentbereich zur Navigationsleiste (= dunkelgrauer Bereich auf der Beispielwebsite)*/
+   .jtpl-section-main.cc-content-parent {margin: 30px auto 80px;} 
+}
+/*]]>*/
+</style>
