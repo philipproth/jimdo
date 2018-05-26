@@ -1,0 +1,113 @@
+<style type="text/css">
+/*<![CDATA[*/
+/* Änderung für Cookie-Policy */
+#cookie-policy {
+        font-family: "The Girl Next Door",cursive,"google";
+        font-size: 30px;
+        font-weight: bold;
+        font-style: normal;
+        color: rgba(182,207,188);
+}
+#was-sind-cookies {
+        margin-top: 30px;
+        font-family: "The Girl Next Door",cursive,"google";
+        font-size: 24px;
+        font-weight: bolder;
+        font-style: italic;
+        color: rgba(182,207,188);
+}
+#zustimmung-zur-verwendung-von-cookies {
+        margin-top: 30px;
+        font-family: "The Girl Next Door",cursive,"google";
+        font-size: 24px;
+        font-weight: bolder;
+        font-style: italic;
+        color: rgba(182,207,188);
+}
+#kategorien-der-verwendeten-cookies {
+        margin-top: 30px;
+        font-family: "The Girl Next Door",cursive,"google";
+        font-size: 24px;
+        font-weight: bolder;
+        font-style: italic;
+        color: rgba(182,207,188);
+}
+#unbedingt-erforderliche-cookies {
+        margin-top: 30px;
+        font-family: "The Girl Next Door",cursive,"google";
+        font-size: 20px;
+        font-weight: bolder;
+        font-style: italic;
+        color: rgba(182,207,188);
+}
+#funktionale-cookies {
+        margin-top: 20px;
+        font-family: "The Girl Next Door",cursive,"google";
+        font-size: 20px;
+        font-weight: bolder;
+        font-style: italic;
+        color: rgba(182,207,188);
+}
+#performance-cookies {
+        margin-top: 20px;
+        font-family: "The Girl Next Door",cursive,"google";
+        font-size: 20px;
+        font-weight: bolder;
+        font-style: italic;
+        color: rgba(182,207,188);
+}
+#marketing-cookies-third-party-cookies {
+        margin-top: 20px;
+        font-family: "The Girl Next Door",cursive,"google";
+        font-size: 20px;
+        font-weight: bolder;
+        font-style: italic;
+        color: rgba(182,207,188);
+}
+#deaktivierung-oder-löschung-sämtlicher-cookies {
+        margin-top: 20px;
+        font-family: "The Girl Next Door",cursive,"google";
+        font-size: 24px;
+        font-weight: bolder;
+        font-style: italic;
+        color: rgba(182,207,188);
+}
+.j-cookie-policy p {
+        font-family: "Source Sans Pro",sans-serif,"google";
+        font-size: 15px;
+        font-weight: normal;
+        font-style: normal;
+        color: #222222;
+}
+.j-cookie-policy a {
+        font-family: "Source Sans Pro",sans-serif,"google";
+        font-size: 15px;
+        font-weight: normal;
+        font-style: normal;
+        color: #222222 !important;
+}
+.j-cookie-policy ul {
+        margin-top: 5px;
+        margin-bottom: 5px;
+        font-family: "Source Sans Pro",sans-serif,"google";
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        color: #222222;
+}
+.j-cookie-policy th {
+        font-family: "The Girl Next Door",cursive,"google";
+        font-size: 15px;
+        font-weight: bold;
+        font-style: normal;
+        color: rgba(182,207,188);
+}
+.j-cookie-policy td {
+        font-family: "Source Sans Pro",sans-serif,"google";
+        font-size: 15px;
+        font-weight: normal;
+        font-style: normal;
+        color: #222222;
+}
+/*]]>*/
+</style>
