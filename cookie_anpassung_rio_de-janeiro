@@ -1,0 +1,32 @@
+
+<style type="text/css">
+/*<![CDATA[*/
+/* Änderung für Cookie-Fenster */
+#cc-cookie-law {
+        background: rgba(182,207,188, 0.80);
+        margin-top: 72.75px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+}
+#cc-cookie-law-text, #cc-cookie-law-text a {
+        color: #222222;
+        font-family: "Source Sans Pro",sans-serif,"google";
+        font-size: 15px;
+        line-height: 1.5;
+}
+#cc-cookie-law-headline {
+        color: #222222;
+        font-family: "The Girl Next Door",cursive,"google";
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 1.5;
+}
+.cc-btn.cc-btn-icon.btn-tick {
+        background: rgba(182,207,188);
+        color: #222222;
+        border: 1px solid #222222;
+        box-shadow: none;
+        text-shadow: none;
+}
+/*]]>*/
+</style>
